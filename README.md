@@ -2,44 +2,7 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="max-width: 60%;">
-    <p align="left">
-      Hey there! 👋<br>
-      I’m a curious coder, full-time Workday Specialist, and part-time explorer of digital worlds and soundscapes.
-      By day, I navigate the world of Workday to help businesses run smoother. By night (and sometimes weekends 😄),
-      I dive headfirst into code, games, and music.<br><br>
-
-      🧠 <strong>Techie Things I Tinker With:</strong><br>
-      Frontend Magic – React.js, HTML, CSS, and Bootstrap are my go-to tools for crafting clean, responsive UIs.<br><br>
-
-      Cross-Platform Vibes – Building beautiful mobile apps with Flutter & Dart is my jam.<br><br>
-
-      Backend Basics – I enjoy scripting and solving problems in Python, always learning more and experimenting with ideas.<br><br>
-
-      🎮 <strong>Gamer Mode Activated:</strong><br>
-      Gaming is where I let my imagination run wild. I thrive in:<br><br>
-
-      Destiny 2 – Guardian for life.<br><br>
-      Soulsborne titles – I’ve died a thousand times and I’ll do it again.<br><br>
-      Minecraft – From building cozy cottages to redstone madness, it’s a creative outlet like no other.<br><br>
-
-      🎧 <strong>Music = Soul Fuel:</strong><br>
-      When I’m not coding or gaming, I’m plugged into some of the best tunes out there.
-      Big fan of indie artists like Zaeden, Mitraz, Lost Stories – always vibing to those underrated gems.<br>
-      Also love popular voices like Armaan Malik and Darshan Raval when I’m in the feels or just need that classic mood-booster.<br><br>
-
-      🌱 <strong>Always Leveling Up:</strong><br>
-      I believe in continuous learning, building cool things, and having fun while doing it.
-      Whether it’s tech, gaming, or music – I’m all about passion, curiosity, and creativity.<br><br>
-
-      Let’s connect, code, collab, or just talk about the best Destiny 2 raids or indie tracks you've got on repeat!
-    </p>
-  </div>
-  <div style="max-width: 35%; padding-left: 20px;">
-    <img src="https://imgur.com/CG7KgEw.png" alt="Coding Vibes" style="width: 100%; border-radius: 10px;">
-  </div>
-</div>
+<p align="left">Hey there! 👋<br>I’m a curious coder, full-time Workday Specialist, and part-time explorer of digital worlds and soundscapes. By day, I navigate the world of Workday to help businesses run smoother. By night (and sometimes weekends 😄), I dive headfirst into code, games, and music.<br><br>🧠 Techie Things I Tinker With:<br>Frontend Magic – React.js, HTML, CSS, and Bootstrap are my go-to tools for crafting clean, responsive UIs.<br><br>Cross-Platform Vibes – Building beautiful mobile apps with Flutter & Dart is my jam.<br><br>Backend Basics – I enjoy scripting and solving problems in Python, always learning more and experimenting with ideas.<br><br>🎮 Gamer Mode Activated:<br>Gaming is where I let my imagination run wild. I thrive in:<br><br>Destiny 2 – Guardian for life.<br><br>Soulsborne titles – I’ve died a thousand times and I’ll do it again.<br><br>Minecraft – From building cozy cottages to redstone madness, it’s a creative outlet like no other.<br><br>🎧 Music = Soul Fuel:<br>When I’m not coding or gaming, I’m plugged into some of the best tunes out there.<br>Big fan of indie artists like Zaeden, Mitraz, Lost Stories – always vibing to those underrated gems.<br>Also love popular voices like Armaan Malik and Darshan Raval when I’m in the feels or just need that classic mood-booster.<br><br>🌱 Always Leveling Up:<br>I believe in continuous learning, building cool things, and having fun while doing it. Whether it’s tech, gaming, or music – I’m all about passion, curiosity, and creativity.<br><br>Let’s connect, code, collab, or just talk about the best Destiny 2 raids or indie tracks you've got on repeat!</p>
 
 ###
 
